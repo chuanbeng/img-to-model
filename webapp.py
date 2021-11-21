@@ -9,8 +9,8 @@ import pandas as pd
 
 st.set_option('deprecation.showfileUploaderEncoding', False)
 
-#model = tf.keras.models.load_model('tfbase.h5') #simple model
-model = tf.keras.models.load_model('tfaug.h5') #augmented model
+model = tf.keras.models.load_model('tfbase.h5') #simple model
+#model = tf.keras.models.load_model('tfaug.h5') #augmented model
 
 #===================
 #define image height and width
