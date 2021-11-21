@@ -1,5 +1,5 @@
 import numpy as np
-import tensorflow as tf
+#import tensorflow as tf
 import io
 import streamlit as st
 from PIL import Image
@@ -7,7 +7,7 @@ from tempfile import NamedTemporaryFile
 
 
 st.set_option('deprecation.showfileUploaderEncoding', False)
-model = tf.keras.models.load_model('tfbase.h5') #simple model
+#model = tf.keras.models.load_model('tfbase.h5') #simple model
 
 st.write("""
          # Model Prediction
