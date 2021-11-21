@@ -2,5 +2,4 @@ streamlit
 tensorflow
 numpy
 pandas
-io
 PIL
