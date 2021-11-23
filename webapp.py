@@ -27,7 +27,7 @@ def saveImage(byteImage):
     return imgFile
 
 st.write("""
-         # Model Prediction
+         # Model Prediction Demo
          """
          )
 #st.write("This is a simple image classification web app to predict model of converter")
