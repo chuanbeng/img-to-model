@@ -1,1 +1,1 @@
-Image to Model
+Model Prediction
